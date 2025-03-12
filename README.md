@@ -16,7 +16,7 @@ Welcome to **ShopMe**, a modern and user-friendly e-commerce platform built with
 - 🚀 **Fast & Lightweight** - Powered by React & Vite.
 
 ## 🚀 Live Demo
-🔗 [View ShopMe Live](https://your-username.github.io/shopme)
+🔗 [View ShopMe Live](https://shopme-e-commerce.vercel.app/)
 
 ## 🛠️ Installation & Setup
 
